@@ -40,19 +40,19 @@ Each chapter directory contains Python files corresponding to the exercises from
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/swejoycechoi/python_data_structures.git
+    cd python_data_structures
     ```
 
 2. **Navigate to the Chapter:**
     ```sh
-    cd Chapter01
+    cd chapter1
     ```
 
 3. **Run the Solutions:**
     Each solution can be executed using Python. For example:
     ```sh
-    python exercise1_1.py
+    python p1.1.py
     ```
 
 
