@@ -2,4 +2,4 @@
 until an EOFError is raised, and then outputs those lines in reverse order
 (a user can indicate end of input by typing ctrl-D).'''
 
-# Hint: Use a list to store all the lines.
+# Hint: Use a list to store all the lines
