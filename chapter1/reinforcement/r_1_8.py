@@ -4,3 +4,6 @@ such as a string. If string s has length n, and expression s[k] is used for inde
 the same element?'''
 
 # Hint: give your answer in terms of n and k
+
+# For a string ss of length nn, the equivalent non-negative index jj for a negative index kk (where −n≤k<0−n≤k<0) is given by:
+# j = n + k
