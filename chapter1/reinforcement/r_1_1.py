@@ -2,7 +2,6 @@
 values and returns True if n is a multiple of m, that is, n = mi for some
 integer i, and False otherwise.'''
 
-# Hint: the modulo operator could be useful here
 def is_multiple(n,m):
     '''check if n is a multiple of m.
     n(int): the number to check

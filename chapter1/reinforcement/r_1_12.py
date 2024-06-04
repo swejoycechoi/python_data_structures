@@ -5,8 +5,6 @@ the built-in range function, that return a random choice from the given
 range. Using only the randrange function, implement your own version
 of the choice function.'''
 
-# Hint: use randrange to pick the index of the chosen element
-
 import random
 
 def custom_choice(data):

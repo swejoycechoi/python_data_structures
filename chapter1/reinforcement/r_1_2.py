@@ -2,7 +2,6 @@
 returns True if k is even, and False otherwise. However, your function
 cannot use the multiplication, modulo, or division operators.'''
 
-# Hint: use bit operations
 def is_even(k):
     """
     Check if an integer k is even using bit operations.
