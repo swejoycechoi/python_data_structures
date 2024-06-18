@@ -3,6 +3,7 @@ Code Fragment 2.3, so that it will eventually cause exactly one of the three
 credit cards to go over its credit limit. Which credit card is it?'''
 
 # Hint: Try to make the last card over its limit
+from r_2_7 import CreditCard
 
 if __name__ == '__main__':
     wallet = []
